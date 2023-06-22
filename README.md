@@ -25,13 +25,12 @@ Compatiable executors:
 
 ## :fire: Credits
 ```sh-session
-> 7GrandDadPGN
-> V-rusa
-> Cablesweb
-> MaksBloxX
-> 1201for
->
-✔  d
+✔  7GrandDadPGN
+✔  V-rusa
+✔  Cablesweb
+✔  MaksBloxX
+✔  1201for
+✔ 
 ```
 
 
