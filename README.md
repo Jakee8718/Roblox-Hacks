@@ -32,3 +32,8 @@ Compatiable executors:
 > 1201for
 >
 ```
+
+
+<p align="center">
+  I am NOT responsible for what you do with these scripts. All scripts are public and are not to be redistributed without giving proper credits.
+</p>
