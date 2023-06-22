@@ -35,5 +35,9 @@ Compatiable executors:
 
 
 <p align="center">
-  I am NOT responsible for what you do with these scripts. All scripts are public and are not to be redistributed without giving proper credits.
+  ```diff
+  + I am NOT responsible for what you do with these scripts. All scripts are public and are not to be redistributed without giving proper credits.
+  + Please be aware of the risk that you take when using these scripts. You can get banned from ROBLOX for exploiting which is understandable. Use at your own risk.
+  + I suggest not abusing the scripts.
+  ```
 </p>
